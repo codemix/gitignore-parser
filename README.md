@@ -49,5 +49,5 @@ files.filter(gitignore.denies);
 
 ### License
 
-MIT, see [LICENSE.md](./LICENSE.md).
+Apache 2, see [LICENSE.md](./LICENSE.md).
 
