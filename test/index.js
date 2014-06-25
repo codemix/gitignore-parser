@@ -1,8 +1,5 @@
 var LIB = require('../lib'),
-    util = require('util'),
-    fs = require('fs'),
-    expect = require('expect.js'),
-    should = require('should');
+    fs = require('fs');
 
 var FIXTURE = fs.readFileSync(__dirname + '/../.gitignore', 'utf8');
 
