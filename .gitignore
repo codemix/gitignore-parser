@@ -1,5 +1,6 @@
 # This is a comment in a .gitignore file!
 /node_modules
+*.log
 
 # Ignore this nonexistent file
 /nonexistent
